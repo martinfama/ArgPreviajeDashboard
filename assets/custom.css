@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'TitilliumWeb-Light'; 
+    src: url('fonts/Titillium_Web/TitilliumWeb-Light.ttf');
+}
+
+body {
+    overflow-x: hidden;
+    text-align: center;
+    font-family: "TitilliumWeb-Light";
+}
